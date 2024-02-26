@@ -1,0 +1,1 @@
+ E:\\Indi_Android\\X-NotePad-main\\.dart_tool\\flutter_build\\1cb005a19ad472ba0cba75cac13f7e90\\native_assets.yaml: 
